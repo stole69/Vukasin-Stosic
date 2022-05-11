@@ -1,0 +1,80 @@
+body{
+  margin: 10;
+  text-align: center;
+
+}
+h1{
+margin: 0 auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 50px;
+color:#66BFBF;
+width: 10%;
+}
+h2 {
+  #66BFBF
+  color: black ;
+  font-size: 2em;
+  font-family: 'Montserrat'
+
+}
+.uce {
+  text-decoration: underline;
+}
+.gornjiDiv{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.donjiOblak{
+  position: absolute;
+  left:  300px;
+  bottom:300px;
+}
+.gornjiOblak{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.vestina1{
+  float: right;
+  margin-left: 40px;
+  width: 20%;
+}
+.vestina2{
+  width: 40%;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 34px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.donjiDiv{
+  background-color: purple;
+}
